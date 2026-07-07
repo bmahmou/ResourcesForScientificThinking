@@ -26,7 +26,7 @@
 
 [Advice for a Young Investigator by Santiago Ramón y Cajal](https://mitpress.mit.edu/9780262681506/advice-for-a-young-investigator/)
 
-[Advice to a Young Mathematician (Section VIII.6) from The Princeton Companion to Mathematics](https://assets.press.princeton.edu/releases/gowers/gowers_VIII_6.pdf))
+[Advice to a Young Mathematician (Section VIII.6) from The Princeton Companion to Mathematics](https://assets.press.princeton.edu/releases/gowers/gowers_VIII_6.pdf)
 
 [Growing up in Science](https://growingupinscience.web.app/)
 
@@ -34,6 +34,6 @@
 
 [Conceiving the Research Question and Developing the Study Plan: Steven R. Cummings, Warren S. Browner, and Stephen B. Hulley](https://neural-mechanics.baulab.info/papers/cummings-1988-conceiving-the-research-question.pdf)
 
-[Richard Hamming: You and your research (1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw): Check out his whole series on youtube!
+[Richard Hamming: You and your research (1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw): Check out his whole series on youtube.
 
 [Matt Might graduate school advice](https://matt.might.net/articles/)
